@@ -1,17 +1,13 @@
-### Hi there 👋
+### Hi there 👋 My name is Nam Nguyen
 
-**NammDev/nammdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am a frontend developer who loves react!
+- 🔭 I’m currently working on Da Nang
+- 🌱 I’m currently learning Da Nang
+- 👯 I’m looking to collaborate on React
+- 💬 Ask me about Vancouver
+- 📫 How to reach me: github, linkedln, zalo
+- 😄 Pronouns: Nam
+- ⚡ Fun fact: Know how to make bubble tea                       
 
 ### Skills
 
