@@ -3,8 +3,8 @@
 I am a frontend developer who loves react!
 - 🔭 I’m currently working on Da Nang
 - 🌱 I’m currently learning Da Nang
-- 👯 I’m looking to collaborate on React
-- 💬 Ask me about Vancouver
+- 👯 I’m looking to collaborate on NextJs
+- 💬 Ask me about Calgary
 - 📫 How to reach me: github, linkedln, zalo
 - 😄 Pronouns: Nam
 - ⚡ Fun fact: Know how to make bubble tea                       
