@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Nam Nguyen
 
 I am a frontend developer who loves react!
-- 🔭 I’m currently working on Da Nang
-- 🌱 I’m currently learning Da Nang
+- 🔭 I’m currently working on Ha Noi
+- 🌱 I’m currently learning Ha Noi
 - 👯 I’m looking to collaborate on NextJs
 - 💬 Ask me about Calgary
 - 📫 How to reach me: github, linkedln, zalo
